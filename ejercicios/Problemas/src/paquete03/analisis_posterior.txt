@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+El programa cumple su objetivo al calcular correctamente el área según la opción
+seleccionada. La estructura con métodos independientes facilita la lectura y el
+mantenimiento del código. Sin embargo, el valor de resultado no se usa para
+mostrar las áreas, ya que cada método imprime directamente el mensaje. También
+podría optimizarse usando un solo Scanner y validando mejor las entradas.

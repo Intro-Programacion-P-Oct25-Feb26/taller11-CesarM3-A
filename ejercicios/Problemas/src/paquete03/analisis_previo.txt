@@ -1,0 +1,5 @@
+El programa se plantea para calcular áreas de figuras geométricas básicas usando
+un menú de opciones. Se apoya en métodos estáticos para separar la lógica de
+cada cálculo, lo que mejora la organización. Se utiliza Scanner para entrada
+de datos por teclado y operaciones aritméticas simples. Antes de ejecutarlo, se
+asume que el usuario ingresará valores numéricos válidos y una opción correcta.

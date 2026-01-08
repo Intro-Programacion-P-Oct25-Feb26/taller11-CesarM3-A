@@ -1,0 +1,5 @@
+El programa busca registrar viviendas y su consumo mensual de energía.
+Se requiere almacenar nombres y consumos usando arreglos y matrices.
+Es necesario recorrer correctamente las estructuras con bucles for.
+El cálculo del consumo total depende de sumar los valores mensuales.
+La salida debe mostrar resultados claros y organizados en una cadena.

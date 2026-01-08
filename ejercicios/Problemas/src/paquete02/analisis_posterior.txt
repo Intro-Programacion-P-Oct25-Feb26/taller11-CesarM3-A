@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+El programa almacena correctamente los datos ingresados por el usuario.
+Los bucles recorren los arreglos sin provocar errores de índice.
+El consumo total se calcula sumando los meses de cada vivienda.
+Los resultados se agrupan en una sola cadena usando StringBuilder.
+El código es funcional, ordenado y cumple con los requisitos planteados.
