@@ -1,0 +1,6 @@
+El programa define una matriz de enteros con valores previamente establecidos, 
+lo que permite trabajar con datos estáticos para facilitar la comprobación del 
+funcionamiento del algoritmo, la condición aplicada con el operador módulo (%) 
+verifica si el residuo de la división entre dos es cero, asegurando que solo se 
+impriman los números pares contenidos en el arregloFinalmente, el uso del método
+printf permite mostrar los resultados en pantalla de forma ordenada.

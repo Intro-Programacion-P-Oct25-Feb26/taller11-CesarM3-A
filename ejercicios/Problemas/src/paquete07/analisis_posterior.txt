@@ -1,0 +1,5 @@
+Al inicio xomence con el codigo claro, la verdad es que no se me complico el 
+tener que entenderlo, y el error que cometi al inicio fue poner mal el mod, y 
+creo que la parte más importante para su solucion es el realizar bien el tema de
+ las posiciones, con este ejercicio reforce el tema de arreglos bidimensionales
+y el como funcionan.
