@@ -1,6 +1,5 @@
-El programa define una matriz de enteros con valores previamente establecidos, 
-lo que permite trabajar con datos estáticos para facilitar la comprobación del 
-funcionamiento del algoritmo, la condición aplicada con el operador módulo (%) 
-verifica si el residuo de la división entre dos es cero, asegurando que solo se 
-impriman los números pares contenidos en el arregloFinalmente, el uso del método
-printf permite mostrar los resultados en pantalla de forma ordenada.
+Este programa trabaja con una tabla de números organizada en filas y columnas.
+La tabla ya tiene valores definidos para no pedir datos al usuario.
+La idea principal es revisar cada número que está dentro de la tabla.
+Antes de mostrar algo, el programa decide cuáles números le interesan.
+Todo está pensado para aprender a recorrer y revisar datos paso a paso.

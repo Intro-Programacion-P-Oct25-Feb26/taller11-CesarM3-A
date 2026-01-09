@@ -1,0 +1,5 @@
+Este programa sirve para guardar nombres de ciudades que escribe el usuario.
+Primero se pregunta cuántas ciudades se van a ingresar en total.
+Luego el programa se prepara para recibir cada nombre uno por uno.
+La idea es trabajar con palabras y no con números complicados.
+Todo el proceso es guiado con mensajes claros en pantalla.

@@ -1,5 +1,5 @@
-Al inicio xomence con el codigo claro, la verdad es que no se me complico el 
-tener que entenderlo, y el error que cometi al inicio fue poner mal el mod, y 
-creo que la parte más importante para su solucion es el realizar bien el tema de
- las posiciones, con este ejercicio reforce el tema de arreglos bidimensionales
-y el como funcionan.
+Después de ingresar todas las ciudades, el programa las revisa una por una.
+Solo se muestran aquellas que tienen cuatro o cinco letras en su nombre.
+Esto ayuda a aprender cómo contar letras dentro de una palabra.
+El resultado aparece ordenado y fácil de leer en pantalla.
+Así se entiende cómo seleccionar información específica de una lista.

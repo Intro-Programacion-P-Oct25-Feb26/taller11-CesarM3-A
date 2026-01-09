@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Cuando el programa se ejecuta, revisa cada número de la tabla uno por uno.
+Solo toma en cuenta los números que se pueden dividir para dos sin sobra.
+Cada número que cumple esa condición se guarda para mostrarse luego.
+Al final, el programa muestra únicamente esos números en pantalla.
+Esto ayuda a entender cómo seleccionar datos según una regla sencilla.
