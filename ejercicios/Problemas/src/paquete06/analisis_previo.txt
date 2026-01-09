@@ -1,0 +1,5 @@
+Este programa usa una lista de números para hacer dos cálculos importantes.
+Primero busca un valor que represente el promedio de todos los datos dados.
+Luego prepara el proceso para ver qué tan alejados están los números entre sí.
+La intención es trabajar con datos simples y entender resultados generales.
+Todo se hace siguiendo pasos claros y repetitivos para facilitar su comprensión.

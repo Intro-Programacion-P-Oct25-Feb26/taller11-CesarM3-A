@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Al ejecutarse, el programa suma todos los números y los divide para hallar
+un valor promedio que los represente. Después compara cada número con ese
+promedio para ver cuánto se aleja de él. Con esas diferencias obtiene un
+resultado final que muestra qué tan dispersos están los datos.
+Así se aprende a analizar números más allá de solo sumarlos.
