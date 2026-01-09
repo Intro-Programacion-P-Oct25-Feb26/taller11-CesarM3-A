@@ -1,0 +1,5 @@
+Este programa fue pensado para ayudar a una persona a saber cuánto dinero
+debe pagar según el tipo de servicio que elija, como luz o predio.
+Primero se muestra un mensaje con opciones claras para que el usuario elija.
+Luego se pide información básica como el nombre y la cédula de la persona.
+Todo el proceso sigue un orden sencillo y fácil de entender paso a paso.
