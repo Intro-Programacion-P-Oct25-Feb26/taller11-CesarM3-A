@@ -1,0 +1,5 @@
+Este programa trabaja con tablas de números organizadas en filas y columnas.
+Se tienen dos tablas iniciales con los mismos valores para poder compararlas.
+La idea principal es combinar los números de ambas tablas uno por uno.
+Luego se prepara un espacio nuevo donde se guardarán esos nuevos resultados.
+Todo está pensado para mostrar la información de forma ordenada en pantalla.

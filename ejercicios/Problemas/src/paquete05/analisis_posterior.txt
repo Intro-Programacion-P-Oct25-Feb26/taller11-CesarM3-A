@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Al ejecutar el programa, primero se muestran las dos tablas originales completas.
+Después se muestra una tercera tabla que resulta de unir los valores anteriores.
+Cada número nuevo se obtiene juntando un valor de la primera con otro igual.
+El resultado final permite ver claramente cómo cambian los valores obtenidos.
+Esto ayuda a entender mejor cómo se trabajan tablas y resultados paso a paso.
